@@ -1,7 +1,7 @@
 ---
 name: New Mirror Request
 about: Suggest an new mirror for NJU Mirror
-title: "[NMR] New Mirror Request for [Name]"
+title: "[NMR] New Mirror Request for [Repo Name]"
 labels: enhancement
 assignees: yaoge123
 
@@ -13,7 +13,7 @@ assignees: yaoge123
 - [ ] I understand that the issue raised here is **not** related to the front-end.
 - [ ] I have looked it up in the NJU mirror, it's **not** in there now.
 - [ ] I have looked it up in opening issue, it's **not** suggested by others.
-- [ ] I have looked it up in closed issue, it's **not refused** by @yaoge123 for same reasons.
+- [ ] I have looked it up in closed issue, it's **not refused** by @yaoge123 for some reasons.
 - [ ] I'm willing to add an NJU-mirror description to the original repo.
 
 <!-- uncomment the following part if you need -->
